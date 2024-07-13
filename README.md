@@ -1,16 +1,16 @@
 # Hello, I'm Aswin
 <a href="https://linkedin.com/in/aswinsajeev"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-[Brief Introduction]
-[Brief Introduction - Remove this afterwards]
 
-I am a recent graduate with a profound interest in technology and a dedication to solving complex problems.
+A recent Cyber Security graduate with a passion for protecting digital assets and information from evolving cyber threats. My journey in this field has equipped me with valuable skills in Systems Analysis, Cyber Threat Intelligence (CTI), Cybersecurity, Penetration Testing, and Malware Analysis.
+
+Throughout my academic and practical experiences, I have developed a deep understanding of cyber defense strategies and techniques, enabling me to analyze and assess vulnerabilities effectively. My expertise in Cyber Threat Intelligence allows me to stay one step ahead of adversaries, ensuring proactive measures are in place to safeguard against potential attacks.
+
+I am driven by a desire to contribute to a safer digital landscape and am eager to apply my skills and knowledge to real-world scenarios. I believe in continuous learning and keeping up-to-date with the latest cybersecurity trends and best practices.
+
 
 ## Objective
-[Provide Objective]
-[Provide Objective - Remove this afterwards]]
-
-My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
+Dedicated and highly skilled Cyber Security graduate seeking a challenging position in cybersecurity to leverage expertise in Systems Analysis, Cyber Threat Intelligence, Penetration Testing, and Malware Analysis. Committed to protecting digital assets and information by implementing proactive defense strategies and assessing vulnerabilities to stay ahead of evolving cyber threats. Passionate about contributing to a safer digital landscape through continuous learning and application of the latest cybersecurity trends and best practices.
 
 ## Skills
 [Provide skills and associated project. Make sure to hyperlink the project]
